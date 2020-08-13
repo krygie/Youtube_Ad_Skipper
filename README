@@ -1,0 +1,9 @@
+Dependencies needed:
+Python - 3.6.9
+  numpy - 1.19.1
+  opencv-python - 4.3.0.36
+  PyAutoGUI - 0.9.50
+
+Tested using PyCharm 2020.2.
+
+In order to use the bot, just run "main.py" or import the SkipBot class and then create an instance of the class.
